@@ -8,6 +8,5 @@ This will be the GitHub action that can be used to run compiled tests.
 
 This is essentially a Playwright docker image that runs the tests in headless mode.
 
-## Usage
-
+## Usage 
 This does not work yet.
